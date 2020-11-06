@@ -1,0 +1,2 @@
+CREATE SCHEMA prog2;
+USE prog2;
